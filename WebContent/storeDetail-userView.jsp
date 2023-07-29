@@ -373,7 +373,7 @@ $(function () {
 							<li><a href="#" class="small_menuA">가게1</a></li>
 							<li><a href="#" class="small_menuA">가게2</a></li>
 							<li><a href="#" class="small_menuA">가게3</a></li>
-							<li><a href="#" class="small_menuA">가게4</a></li>
+							<li><a href="#" class="small_menuA">가게4</a></li>  
 						</ul>
 					</ul>
 					<ul class="big_menu">
